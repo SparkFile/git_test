@@ -11,4 +11,10 @@ master:add new line.
 add new line at new branch named featuee1.
 >>>>>>> feature1
 merge conflict fixed.
+<<<<<<< HEAD
 new dev:new commit.but I have some questions.
+=======
+new dev:new commit.
+now in branch dev,my work is not complete.Maybe it also need one days.
+>>>>>>> dev
+conflict again!
