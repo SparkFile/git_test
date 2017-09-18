@@ -12,3 +12,4 @@ add new line at new branch named featuee1.
 >>>>>>> feature1
 merge conflict fixed.
 new dev:new commit.
+now in branch dev,my work is not complete.Maybe it also need one days.
