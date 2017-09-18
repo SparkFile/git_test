@@ -2,3 +2,5 @@ this is git test file!
 now I need to alter new words.
 
 this is the third add!
+
+four!
