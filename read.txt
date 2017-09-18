@@ -11,3 +11,4 @@ master:add new line.
 add new line at new branch named featuee1.
 >>>>>>> feature1
 merge conflict fixed.
+new dev:new commit.
