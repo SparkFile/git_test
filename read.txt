@@ -18,3 +18,4 @@ new dev:new commit.
 now in branch dev,my work is not complete.Maybe it also need one days.
 >>>>>>> dev
 conflict again!
+----------------------------------------------
